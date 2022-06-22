@@ -30,9 +30,4 @@ const ELEMENT_DATA: PeriodicElement[] = [
 {id: 3, name: 'Stefan Pettersson', mobile: '0707329417', email: 'stefan.pettersson@storel.com'},
 {id: 4, name: 'Sofia Larsson', mobile: '0702951864', email: 'sofia.larsson@volvo.com'},
 {id: 5, name: 'Olle Pedersen', mobile: '0708261593', email: 'olle.pedersen@citygross.com'},
-{id: 6, name: 'Berit Eriksson', mobile: '0706725193', email: 'berit.eriksson@telia.com'},
-{id: 7, name: 'Rut Dahlström', mobile: '0702971643', email: 'rut.dahlstrom@storytel.com'},
-{id: 8, name: 'Mats Svensson', mobile: '0702849175', email: 'mats.svensson@skanska.com'},
-{id: 9, name: 'Mia Karlsson', mobile: '0703816492', email: 'mia.karlsson@byggmax.com'},
-{id: 10, name: 'Sven Ohlsson', mobile: '0705927153', email: 'sven.ohlsson@regionskane.com'},
 ];
